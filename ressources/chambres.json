@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "etage": 1,
+    "chambre": 101,
+    "description": "1 king size bed - A/C - Wi-Fi - private bathroom - wheelchair accessible",
+    "capacité": 2
+  },
+  {
+    "id": 2,
+    "etage": 1,
+    "chambre": 102,
+    "description": "2 queen size beds - A/C - Wi-Fi - private bathroom - wheelchair accessible",
+    "capacité": 4
+  },
+  {
+    "id": 3,
+    "etage": 1,
+    "chambre": 103,
+    "description": "3 single beds - A/C - Wi-Fi - private bathroom - wheelchair accessible",
+    "capacité": 3
+  },
+  {
+    "id": 4,
+    "etage": 2,
+    "chambre": 201,
+    "description": "1 king size bed - A/C - Wi-Fi - private bathroom",
+    "capacité": 2
+  },
+  {
+    "id": 5,
+    "etage": 2,
+    "chambre": 202,
+    "description": "1 queen size bed - Wi-Fi - private bathroom",
+    "capacité": 2
+  },
+  {
+    "id": 5,
+    "etage": 2,
+    "chambre": 203,
+    "description": "1 king size bed + 3 single beds - A/C - Wi-Fi - private bathroom",
+    "capacité": 5
+  },
+  {
+    "id": 6,
+    "etage": 2,
+    "chambre": 204,
+    "description": "1 king size bed + 3 single beds - A/C - Wi-Fi - private bathroom",
+    "capacité": 1
+  },
+  {
+    "id": 7,
+    "etage": 2,
+    "chambre": 205,
+    "description": "2 single beds - A/C - Wi-Fi - shared bathroom",
+    "capacité": 2
+  },
+  {
+    "id": 8,
+    "etage": 3,
+    "chambre": 301,
+    "description": "1 queen size bed - A/C - private bathroom",
+    "capacité": 2
+  },
+  {
+    "id": 9,
+    "etage": 3,
+    "chambre": 302,
+    "description": "2 single beds - A/C - private bathroom",
+    "capacité": 2
+  },
+  {
+    "id": 10,
+    "etage": 3,
+    "chambre": 303,
+    "description": "3 single beds - A/C - shared bathroom",
+    "capacité": 3
+  },
+  {
+    "id": 11,
+    "etage": 3,
+    "chambre": 304,
+    "description": "2 single beds - shared bathroom",
+    "capacité": 2
+  }
+]

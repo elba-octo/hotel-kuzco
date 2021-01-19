@@ -1,7 +1,5 @@
 import {Chambre} from "../domain/Chambre";
 
-export class ChambreRepository  {
-   protected listerChambres(chambres: Chambre[]) {
-      return [chambres];
-   }
+export interface ChambreRepository  {
+   lister():Chambre[]
 }

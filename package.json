@@ -15,7 +15,8 @@
     "mocha": "^8.2.1"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "serve": "npx tsc -w -p ."
   },
   "keywords": [],
   "author": "",

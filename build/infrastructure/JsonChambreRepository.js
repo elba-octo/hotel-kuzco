@@ -10,5 +10,8 @@ class JsonChambreRepository {
     lister() {
         return chambres_json_1.default.map(chambre => { return new Chambre_1.Chambre(chambre.id, chambre.etage, chambre.chambre, chambre.description, chambre.capacite); });
     }
+    listerParCapacite(nombreVoyageurs) {
+        return this.lister().filter(chambre => chambre.capacite >= nombreVoyageurs);
+    }
 }
 exports.JsonChambreRepository = JsonChambreRepository;

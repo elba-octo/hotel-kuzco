@@ -21,4 +21,7 @@ class ChambreRepositoryTest {
     lister() {
         return this.chambres;
     }
+    listerParCapacite(nombreVoyageurs) {
+        return this.chambres;
+    }
 }

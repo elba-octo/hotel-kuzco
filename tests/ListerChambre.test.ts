@@ -27,4 +27,9 @@ class ChambreRepositoryTest implements ChambreRepository {
     lister(): Chambre[] {
         return this.chambres;
     }
+
+    listerParCapacite(nombreVoyageurs: number) {
+        return this.chambres;
+    }
+
 }
